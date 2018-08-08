@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib_build\neon_test_build\CMakeFiles\91bf8aeaab56c166f31725285bddb0cf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{36854A8C-598B-38AF-92B4-C966F0A9337A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\loss\loss_metric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\loss\loss_mmod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\loss\loss_multiclass_log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\loss\loss_multiclass_log_per_pixel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\output.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\trainer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\loss\loss_metric.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\loss\loss_mmod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\loss\loss_multiclass_log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\loss\loss_multiclass_log_per_pixel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\output.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\dlib\dnn\trainer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native.Dnn\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{143A81FA-82E1-3151-B158-F6244AC74026}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CD31D6DB-A914-356B-A39E-EE0A88633D11}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

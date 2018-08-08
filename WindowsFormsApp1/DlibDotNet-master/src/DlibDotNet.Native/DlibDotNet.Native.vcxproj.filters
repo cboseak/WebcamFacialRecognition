@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\array\array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\array2d\array2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\clustering\chinese_whispers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\data_io\load_image_dataset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\data_io\mnist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\dnn\net.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\extensions\extensions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\dpoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\drectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\point_transforms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\graph_utils\sample_pair.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\gui_core\gui_core_kernel_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\gui_widgets\canvas_drawing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\gui_widgets\widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_keypoint\draw_surf_points.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_keypoint\hessian_pyramid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_keypoint\surf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_bmp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_dng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_jpeg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_png.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\correlation_tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\frontal_face_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\full_object_detection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\object_detector\scan_fhog_pyramid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\render_face_detections.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\scan_fhog_pyramid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\shape_predictor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_saver\save_bmp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_saver\save_dng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_saver\save_jpeg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_saver\save_png.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\assign_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\colormaps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\edge_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\fhog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\hough_transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\interpolation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\random_cropper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\segment_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\spatial_filtering.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_expressions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_mat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_array2d_to_mat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_heatmap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_jet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_join_rows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_std_vect_to_mat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_trans.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_utilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\mlp\mlp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\optimization\max_cost_assignment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\ostringstream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\pair.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\rand\rand_kernel_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\serialize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\statistics\statistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\stdlib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\stdvector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\svm\cross_validate_object_detection_trainer\scan_fhog_pyramid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\svm\structural_object_detection_trainer\scan_fhog_pyramid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\array\array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\array2d\array2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\clustering\chinese_whispers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\data_io\load_image_dataset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\data_io\mnist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\dnn\net.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\export.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\extensions\extensions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\dpoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\drectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\point_transforms.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\rectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\geometry\vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\graph_utils\sample_pair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\gui_core\gui_core_kernel_1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\gui_widgets\canvas_drawing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\gui_widgets\widgets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_keypoint\draw_surf_points.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_keypoint\hessian_pyramid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_keypoint\surf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_bmp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_dng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_jpeg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_loader\load_png.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\correlation_tracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\frontal_face_detector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\full_object_detection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\object_detector\scan_fhog_pyramid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\render_face_detections.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\scan_fhog_pyramid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_processing\shape_predictor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_saver\save_bmp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_saver\save_dng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_saver\save_jpeg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_saver\save_png.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\assign_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\colormaps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\draw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\edge_detector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\fhog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\hough_transform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\interpolation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\random_cropper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\segment_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\image_transforms\spatial_filtering.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_expressions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_mat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_array2d_to_mat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_heatmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_jet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_join_rows.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_std_vect_to_mat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_op\op_trans.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\matrix\matrix_utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\mlp\mlp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\optimization\max_cost_assignment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\ostringstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\pair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\rand\rand_kernel_1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\serialize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\shared.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\statistics\statistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\stdlib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\stdvector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\svm\cross_validate_object_detection_trainer\scan_fhog_pyramid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\dlib\svm\structural_object_detection_trainer\scan_fhog_pyramid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Chris\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\DlibDotNet-master\src\DlibDotNet.Native\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C601BB72-1E2E-3F91-B780-79CD0D778511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DF1D165B-1E84-38E7-98EA-F7A4198DB542}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
